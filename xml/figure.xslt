@@ -6,7 +6,7 @@
                 <meta charset="utf-8" />
                 <meta name="viewport" content="width=device-width" />
                 <title>Портфолио: Вольдемар</title>
-                <link rel="stylesheet" href="public/css/main.css" />
+                <link rel="stylesheet" href="../public/css/main.css" />
             </head>
             <body>
                 <div class="container">
